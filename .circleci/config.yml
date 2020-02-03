@@ -110,4 +110,4 @@ workflows:
             - python3
           filters:
             branches:
-              only: /^d\.0$/
+              only: /^\d\.0$/
